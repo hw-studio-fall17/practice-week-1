@@ -9,10 +9,10 @@
 | `subl .`                          | **Opens** the current directory *in Sublime*            |
 | `start index.html`                | **Opens** the HTML file in the default browser(Chrome)  |
 | `git clone lesson-url`            | **Copies** the lesson directory to your computer        |
-| `git checkout -b "branch-name"`   | **Checks out** a new branch                             |
+| `git checkout -b branch_name`     | **Checks out** a new branch                             |
 | `git add -A`                      | **Adds** all of the changes you have made               |
 | `git commit -m "your message"`    | **Commits** all of the changes you have added           |
-| `git push origin "branch-name"`   | **Pushes** your branch to GitHub                        |
+| `git push origin branch_name`   | **Pushes** your branch to GitHub                        |
 
 
 
