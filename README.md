@@ -3,16 +3,16 @@
 ## Terminal and GitHub Help!
 | Commands                          |      What They Do                                     |
 |-----------------------------------|-------------------------------------------------------|
-| `dir`                             | *Lists everything* in the current directory           |
-| `cd directory_name`               | *Changes* to the given directory                      |
-| `cd ..`                           | *Moves* one level up from the current directory       |
-| `subl .`                          | *Opens* the current directory *in Sublime*            |
-| `start index.html`                | *Opens* the HTML file in the default browser(Chrome)  |
-| `git clone lesson-url`            | *Copies* the lesson directory to your computer        |
-| `git checkout -b "branch-name"`   | *Checks out* a new branch                             |
-| `git add -A`                      | *Adds* all of the changes you have made               |
-| `git commit -m "your message"`    | *Commits* all of the changes you have added           |
-| `git push origin "branch-name"`   | *Pushes* your branch to GitHub                        |
+| `dir`                             | **Lists everything** in the current directory           |
+| `cd directory_name`               | **Changes** to the given directory                      |
+| `cd ..`                           | **Moves** one level up from the current directory       |
+| `subl .`                          | **Opens** the current directory *in Sublime*            |
+| `start index.html`                | **Opens** the HTML file in the default browser(Chrome)  |
+| `git clone lesson-url`            | **Copies** the lesson directory to your computer        |
+| `git checkout -b "branch-name"`   | **Checks out** a new branch                             |
+| `git add -A`                      | **Adds** all of the changes you have made               |
+| `git commit -m "your message"`    | **Commits** all of the changes you have added           |
+| `git push origin "branch-name"`   | **Pushes** your branch to GitHub                        |
 
 
 
