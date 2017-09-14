@@ -3,7 +3,7 @@
 ## Terminal and GitHub Help!
 | Commands                          |      What They Do                                     |
 |-----------------------------------|-------------------------------------------------------|
-| `dir`                             | **Lists everything** in the current directory           |
+| `ls`                              | **Lists everything** in the current directory           |
 | `cd directory_name`               | **Changes** to the given directory                      |
 | `cd ..`                           | **Moves** one level up from the current directory       |
 | `subl .`                          | **Opens** the current directory *in Sublime*            |
@@ -17,7 +17,7 @@
 
 
 ## Here are the steps you follow everday:
-1) Navigate to the Desktop in the terminal using `cd` and `dir`
+1) Navigate to the Desktop in the terminal using `cd` and `ls`
 2) Once you are in the Desktop, `git clone lesson-url`
 3) Use `cd` to get into the lesson directory
 4) Checkout a branch with your name `git checkout -b YOUR_NAME`
